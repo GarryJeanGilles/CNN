@@ -1,0 +1,105 @@
+header,section.part_1, section.part_2, main.part_1, main.part_2, main.part_3{
+    border: 0px solid black;
+}
+li.linea{
+    height: 15px;
+    width: 8.5%;
+    margin: 6px;
+    float: left;
+    list-style-type: none;
+}
+ul.c{
+    position: relative;
+    display: block;
+    text-align: center;
+    top: 0px;
+}
+li.c{
+    height: 15px;
+    margin: 10px;
+    width: auto;
+    display: inline;
+}
+img.a{
+    height: 20px;
+    width: 4%;
+    margin: 25px;
+    float: left;
+}
+img.b{
+    height: 50px;
+    width: 4%;
+    margin: 1px;
+    float: left;
+}
+img.c{
+    height: 20px;
+    width: 4%;
+    margin: 10px;
+    float: right;
+}
+img.d{
+    height: 20px;
+    width: 4%;
+    margin: 17px;
+    float: left;
+}
+li.lineb, button.a{
+    float: right;
+    margin: 5px;
+    list-style-type: none;
+}
+section.part_1{
+    height: 50px;
+    width: 100%;
+    margin: 0px;
+    float: left;
+}
+p.part_1{
+    font-size: 40px;
+    text-align: center;
+}
+section.part_2{
+    height: 45px;
+    width: 100%;
+    margin: 0px;
+    font-size: 15px;
+    float: left;
+}
+span{
+    color: red;
+}
+main.part_1, main.part_2, main.part_3{
+    height: 700px;
+    width: 32%;
+    margin: 3px;
+    float: left;
+}
+img.d{
+    height: 100px;
+    width: 70%;
+    margin: 40px;  
+}
+header, section.part_1{
+    clear: both;
+    background-color: black;
+    color: white;
+    
+}
+nav.part_2{
+    color: black;
+}
+img.da{
+    height: 300px;
+    width: 80%;
+    margin: 40px;
+}
+img.db{
+    height: 300px;
+    width: 80%;
+    margin: 40px;
+}
+p.parta, p.a1{
+    font-size: 23px;
+    font-weight: bold;
+}
